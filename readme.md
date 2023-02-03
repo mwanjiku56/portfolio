@@ -17,7 +17,7 @@
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwanjiku56" alt="jrosseel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwanjiku56" alt="mwanjiku56" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/mercy-maruga-1b4574109/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mercy's maruga LinkedIn" /></a> 
   <span>&nbsp;</span>
   <!-- Twitter -->
-  <a href="https://twitter.com/wanjikumaruga" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a> 
+  <a href="https://twitter.com/wanjikumaruga" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Mercy's Maruga Twitter" /></a> 
   <span>&nbsp;</span>
   <!-- Stack overflow -->
   <!-- <a href="https://stackoverflow.com/users/mercy-wanjiku" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
@@ -47,7 +47,7 @@
 
 ### Get to know me
 
-💬 I'm a **software Engineer.**
+💬 I'm a **software Engineer.I am skilled in Javascript, ReactJS and Ruby on Rails**
 
 ⚡ Fun fact? **I love music 🎹**
 
@@ -60,7 +60,7 @@
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+👨‍💻 Review my projects at [https://github.com/mwanjiku56](https://github.com/mwanjiku56)
 
 ### Interested ?
 
